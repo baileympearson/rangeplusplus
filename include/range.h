@@ -40,7 +40,6 @@ public:
 		return tmp;
 	}
 
-	// returns _cur
 	int operator*() const {
 		return _cur;
 	}
